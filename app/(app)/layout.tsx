@@ -27,14 +27,14 @@ export default async function AppLayout({ children }: AppLayoutProps) {
           />
         </a>
         <span className="text-foreground font-mono text-xs font-bold tracking-wider uppercase">
-          Built with{' '}
+          Built by{' '}
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/livekit/agents"
+            href="#"
             className="underline underline-offset-4"
           >
-            LiveKit Agents
+            Voltcom Technologies LTD
           </a>
         </span>
       </header>
