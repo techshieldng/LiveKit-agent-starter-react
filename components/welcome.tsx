@@ -20,18 +20,18 @@ export const Welcome = ({
       className="fixed inset-0 z-10 mx-auto flex h-svh flex-col items-center justify-center text-center"
     >
       <CodeBlockIcon size={64} className="mx-auto mb-4" />
-      <h1 className="font-semibold">Voice Agent Quick Start</h1>
+      <h1 className="font-semibold">VICTORIA 1.0</h1>
       <p className="text-muted-foreground max-w-prose pt-1 font-medium">
-        Start a call to chat with your voice agent.
+        Start a call to chat with Victoria.
         <br />
-        Need help getting set up? Check out the{' '}
+        Need help or have enquiries? Contact Voltcom Technologies LTD{' '}
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://docs.livekit.io/agents/start/voice-ai/"
+          href="#"
           className="underline underline-offset-4"
         >
-          Voice AI quickstart
+          +2348061502262
         </a>
         .
       </p>
